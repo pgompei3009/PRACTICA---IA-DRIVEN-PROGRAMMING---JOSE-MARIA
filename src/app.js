@@ -1,5 +1,5 @@
 function obtenerSaludo(nombre) {
-    if (nombre.trim() === null) {
+    if (nombre.trim() === "") {
         return "Hola Mundo";
     }
 

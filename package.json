@@ -1,0 +1,19 @@
+{
+  "name": "aplicacion-saludos",
+  "version": "1.0.0",
+  "description": "Aplicación web sencilla que muestra saludos personalizados con tests en Python.",
+  "main": "app.js",
+  "scripts": {
+    "test": "python test_saludos.py"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "python",
+    "testing",
+    "saludos"
+  ],
+  "author": "",
+  "license": "MIT"
+}

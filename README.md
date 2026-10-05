@@ -23,7 +23,6 @@ El proyecto ha sido desarrollado siguiendo una aproximación basada en especific
 - HTML5
 - CSS3
 - JavaScript
-- Python (`unittest`)
 
 ---
 
